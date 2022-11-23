@@ -5,4 +5,4 @@
 
 <> Ekran gifi</>
 
-![](ekran.gif)
+![](havadurumu.gif)
